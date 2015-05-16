@@ -1,0 +1,32 @@
+body {
+  padding-top: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.section{
+	padding-top: 110px;
+	padding-bottom: 110px;
+}
+
+.profile-top img{
+	position: absolute;
+	margin-left: -100px;
+	left: 50%; 
+}
+
+.profile-bottom .col-md-4 .glyphicon{
+  font-size: 60px;
+  padding: 25px;
+  border: 5px solid #fff;
+}
+.profile-bottom .col-md-4:hover .glyphicon{
+  border: 5px solid #fff;
+}
+
+.progress{
+	height: 30px;
+}
